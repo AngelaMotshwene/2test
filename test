@@ -1,0 +1,5 @@
+CONSTPI = 3.142
+RADIUS = float("Please enter the radius of the cylinder "))
+LENGTH = float("Please enter the length of the cylinder "))
+VOLUME = Radius * Radius * Length * CONSTPI
+print(Volume of the cylinder is ",  Volume)
